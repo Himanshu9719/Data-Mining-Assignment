@@ -1,0 +1,11 @@
+Transaction
+"Country_France,Age_41-50,Salary_71-80k,Purchased_No"
+"Country_Spain,Age_0-30,Salary_0-50k,Purchased_Yes"
+"Country_Germany,Age_0-30,Salary_51-60k,Purchased_No"
+"Country_Spain,Age_31-40,Salary_61-70k,Purchased_No"
+"Country_Germany,Age_31-40,Salary_61-70k,Purchased_Yes"
+"Country_France,Age_31-40,Salary_51-60k,Purchased_Yes"
+"Country_Spain,Age_31-40,Salary_51-60k,Purchased_No"
+"Country_France,Age_41-50,Salary_71-80k,Purchased_Yes"
+"Country_Germany,Age_41-50,Salary_81k+,Purchased_No"
+"Country_France,Age_31-40,Salary_61-70k,Purchased_Yes"
