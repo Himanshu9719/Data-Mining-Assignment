@@ -1,0 +1,11 @@
+=== HOLDOUT METHOD ===
+Email (80-20): 0.966 0.965 0.966 0.966
+Iris (80-20): 1.0 1.0 1.0 1.0
+Email (66.6-33.3): 0.962 0.962 0.962 0.962
+Iris (66.6-33.3): 0.96 0.96 0.96 0.96
+
+=== CROSS VALIDATION ===
+Email (10-Fold): 0.963
+Email (5-Fold): 0.963
+Iris (10-Fold): 0.96
+Iris (5-Fold): 0.953
